@@ -1,6 +1,6 @@
 # Cloud Infrastructure | Site Reliability Engineering | AI Automation
 
-I'm an experienced Software and Site Reliability Engineer specializing in AWS cloud infrastructure, DevOps automation, observability, and AI-assisted incident management.
+I am Kenny Stockman, an experienced Software and Site Reliability Engineer specializing in AWS cloud infrastructure, DevOps automation, observability, and AI-assisted incident management.
 
 My professional experience includes enterprise SRE engineering at Capital One, infrastructure automation using Terraform and Python, Kubernetes, and developing GenAI-powered root-cause analysis solutions.
 
