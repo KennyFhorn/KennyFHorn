@@ -1,16 +1,17 @@
-## Hi there 👋
+# Cloud Infrastructure | Site Reliability Engineering | AI Automation
 
-<!--
-**KennyFhorn/KennyFHorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an experienced Software and Site Reliability Engineer specializing in AWS cloud infrastructure, DevOps automation, observability, and AI-assisted incident management.
 
-Here are some ideas to get you started:
+My professional experience includes enterprise SRE engineering at Capital One, infrastructure automation using Terraform and Python, Kubernetes, and developing GenAI-powered root-cause analysis solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### View My Professional Portfolio
+
+**Visit my portfolio website for my projects, architecture designs, technical experience, and engineering accomplishments:**
+
+**[View My Engineering Portfolio](https://kennystockman.vercel.app/)**
+
+Most of my GitHub repositories are private because they contain proprietary or actively developed projects. My portfolio provides additional information about my engineering work.
+
+### Core Technologies
+
+AWS • Terraform • Kubernetes • Docker • Python • CI/CD • Splunk • New Relic • Grafana • OpenTelemetry • GenAI • n8n
